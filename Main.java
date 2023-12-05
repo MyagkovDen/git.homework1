@@ -6,8 +6,6 @@ public class Main {
 
         System.out.println("This is homework 2");
 
-        //this is just a comment
-
         //this is another comment
     }
 }
